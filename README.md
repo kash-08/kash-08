@@ -23,13 +23,17 @@
 
 ## 👩‍💻 About me
 
-- 🎓 B.Tech student in **Computer Science and Engineering** at Bharati Vidyapeeth University College of Engineering, Pune (2023 to 2027)
-- 🔭 I’m currently building **[CareCircle](https://github.com/kash-08/carecircle)**, a medication-adherence app for families
-- 🏆 Selected for **BNP Paribas Innoversite 2026**, among the top 354 teams in Mumbai out of 30,000 applicants
-- 🚀 **Smart India Hackathon 2025** semi-finalist
-- 💡 IIC Student President and Innovation Ambassador
-- 💬 Ask me about **Flutter, React Native, FastAPI, Firebase, NLP** and federated learning
-- 🤝 Open to internships and software roles
+Hey, I’m Kashish, a final-year Computer Science and Engineering student at Bharati Vidyapeeth University College of Engineering, Pune.
+
+I like building software that people genuinely use: a learning app that plans your study time, a price checker that works from a single photo, and a medication reminder that helps a family look after a parent or grandparent from anywhere.
+
+My work sits between **mobile development** and **applied AI**. I build apps with Flutter, Firebase, React Native and TypeScript, I’ve worked as a mobile app developer intern, and I’ve explored machine learning, semantic search and federated learning in my projects.
+
+Right now I’m building **[CareCircle](https://github.com/kash-08/carecircle)**. Seniors get simple, large-button reminders, while families see live whether each dose was taken and are alerted when one is missed. I’m aiming to test it with 10 to 15 real households, starting with my own family and friends.
+
+Beyond code, I served as IIC Student President and Innovation Ambassador, mentoring students on their projects. I was selected for **BNP Paribas Innoversite 2026**, among the top 354 teams in Mumbai out of 30,000 applicants, and I was a **Smart India Hackathon 2025** semi-finalist.
+
+I’m open to internships and software roles, and I’m always happy to talk about building something useful. You’ll find all the ways to reach me just below. 👇
 
 ---
 
