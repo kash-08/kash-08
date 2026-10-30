@@ -106,8 +106,8 @@ A family sets up an elderly person’s medication schedule and appointments. The
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kash-08&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kash-08&layout=compact&theme=tokyonight" alt="Top languages">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=kash-08&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kash-08&layout=compact&theme=tokyonight" alt="Top languages">
 </p>
 
 <p align="center">
@@ -115,13 +115,17 @@ A family sets up an elderly person’s medication schedule and appointments. The
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kash-08&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f3&hide_border=true" alt="Contribution graph" width="100%">
+  <img src="https://ghchart.rshah.org/8B5CF6/kash-08" alt="Contribution graph" width="100%">
 </p>
 
-## 🏆 Trophy cabinet
+## 🏆 Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kash-08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub trophies" width="100%">
+  <img src="https://img.shields.io/badge/BNP_Paribas_Innoversite_2026-Top_354-8B5CF6?style=for-the-badge" alt="BNP Paribas Innoversite 2026, Top 354">
+  <img src="https://img.shields.io/badge/SIH_2025-Semi--finalist-3B82F6?style=for-the-badge" alt="SIH 2025 Semi-finalist">
+  <img src="https://img.shields.io/badge/EY_Hackathon-Round_2-FFE600?style=for-the-badge&labelColor=2E2E38" alt="EY Hackathon Round 2">
+  <img src="https://img.shields.io/badge/B.Tech_CGPA-9.27-22C55E?style=for-the-badge" alt="CGPA 9.27">
+  <img src="https://img.shields.io/github/followers/kash-08?label=Followers&style=for-the-badge&color=C8F031&labelColor=0A0A0A" alt="GitHub followers">
 </p>
 
 <p align="center">
@@ -129,4 +133,3 @@ A family sets up an elderly person’s medication schedule and appointments. The
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:C8F031&height=120&section=footer&animation=twinkling" alt="" width="100%">
-
